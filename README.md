@@ -6,7 +6,7 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Leo-pic" height="150" style="border-radius:50px;" src="https://i1.sndcdn.com/artworks-T9XIR71K84bgFghs-wPamog-t500x500.jpg">
+  <img align="right" alt="Leo-pic" height="150" style="border_radius:50px;" src="https://i1.sndcdn.com/artworks-T9XIR71K84bgFghs-wPamog-t500x500.jpg">
 </div>
 <hr />
 
