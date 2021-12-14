@@ -12,8 +12,8 @@
 
 ## 📈 Github stats
 <div style="display: inline_block">
-  <img align="center" height="140em"  src="https://github-readme-stats.vercel.app/api?username=esqueleter&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=esqueleter&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="130em"  src="https://github-readme-stats.vercel.app/api?username=esqueleter&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=esqueleter&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <hr />
  
